@@ -15,7 +15,14 @@ body{
 
 /* BANNER START */
 .home-banner{
-    background-image: url(/assets/image/design1_image1.jpg);
+    background-image: url(assets/image/design1_image1.jpg);
+    background-position-y: 60%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 35vh;
+}
+.home-banner-page{
+    background-image: url(../assets/image/design1_image1.jpg);
     background-position-y: 60%;
     background-size: cover;
     background-repeat: no-repeat;
