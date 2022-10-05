@@ -134,7 +134,7 @@ body{
 }
 .table{
     margin: 30px auto 15px;
-    width: 70%;
+    width: 90%;
 }
 
 .time{
@@ -147,6 +147,12 @@ body{
 
 .p3{
     margin-bottom: 10px;
+}
+
+.maps{
+    border: 0;
+    width: 250px;
+    height: 100px;
 }
 /* GAME INFORMATION ends */
 /* RULES starts */
@@ -282,4 +288,7 @@ body{
     text-align: center;
 }
 
+.space-between{
+    justify-content: space-between;
+}
 /* GENERAL CLASSES ends */
